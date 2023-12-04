@@ -1,9 +1,13 @@
 # Perpustakaan-Java
 Mata kuliah: Praktikum Pemrograman
+
 Semester: 3
+
 Kelas: B
+
 Tema: Perpustakaan
-# Anggota Kelompok dan Job Desc:
+
+### Anggota Kelompok dan Job Desc:
 1. Heparia Arum Ndaru Ramdhani (K3522034)
 - Merancang, membuat, dan mengembangkan source code
 - Merancang dan membuat Database
@@ -13,7 +17,7 @@ Tema: Perpustakaan
 3. Seli Agustina (K3522076)
 - Merancang, membuat, dan mengembangkan Database
 - Mengisi database
-# Tentang Project
+### Tentang Project
 Sebuah sistem Perpustakaan yang memuat beberapa functional parameter berikut:
 - Sistem dibuat untuk admin perpustakaan
 - Sistem memiliki manajemen CRUD data anggota 
